@@ -9,7 +9,7 @@ I enjoy building test plans, finding bugs, and ensuring software reliability.
 
 ## 🛠️ Skills & Tools
 - **Testing:** Manual Testing | Automation (Selenium, TestNG, WebDriverIO) | API Testing (Postman, Newman) | Load & Stress Testing (JMeter)  
-- **Programming:** Java | JavaScript | C# (basic)  
+- **Programming:** Java | JavaScript  
 - **Databases:** MySQL  
 - **Other Tools:** Git | GitHub | Jira | Jenkins | MS Excel  
 
@@ -40,6 +40,5 @@ I enjoy building test plans, finding bugs, and ensuring software reliability.
 ---
 
 
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+## 📫 Connect with Me 
 - 📧 ayesharipa25@gmail.com
