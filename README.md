@@ -1,44 +1,89 @@
-# Hi, I'm Ayesha Nasrin Ripa 👋
+# Ayesha Nasrin Ripa – Junior SQA Engineer  
 
-💻 **Junior SQA Engineer | Manual, Automation & API Testing | Load Testing**  
-
-Passionate about delivering high-quality software through **manual testing**, **automation frameworks**, **API validation**, and **performance testing**.  
-I enjoy building test plans, finding bugs, and ensuring software reliability.
-
----
-
-## 🛠️ Skills & Tools
-- **Testing:** Manual Testing | Automation (Selenium, TestNG, WebDriverIO) | API Testing (Postman, Newman) | Load & Stress Testing (JMeter)  
-- **Programming:** Java | JavaScript  
-- **Databases:** MySQL  
-- **Other Tools:** Git | GitHub | Jira | Jenkins | MS Excel  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AyeshaNasrinRipa-blue)](https://www.linkedin.com/in/ayesharipa/)  
+[![GitHub](https://img.shields.io/badge/GitHub-AyeshaNasrinRipa-black)](https://github.com/AyeshaNasrinRipa)  
+[![Email](https://img.shields.io/badge/Email-ayesharipa25@gmail.com-red)](mailto:ayesharipa25@gmail.com)  
 
 ---
 
-## 📌 Projects
-
-### 🔹 Work Projects
-- **[BSEC – IPO Application Platform](#)**  
-  Manual, automation, and API testing. Designed test cases, prepared reports, and created automation scripts.  
-
-- **[LAAT – London Academy for Applied Technology](#)**  
-  Manual & automation testing. Reported defects and created API test cases.
-
-### 🔹 Personal Projects
-- **[MentalCare – SRS, Test Plan & Test Cases](https://github.com/yourrepo)**  
-  Complete SRS documentation, test plan, and test cases for a mental health support platform.  
-
-- **[SauceDemo – TestNG Automation](https://github.com/yourrepo)**  
-  Implemented end-to-end Selenium automation using Page Object Model and TestNG.  
-
-- **[Dmoney – API Testing with Postman](https://github.com/yourrepo)**  
-  API test suite covering user management, transactions, and error handling.  
-
-- **[Restful Booker API – Load & Stress Testing](https://github.com/yourrepo)**  
-  Simulated 120,000 users with JMeter; identified performance bottlenecks.  
+## 👩‍💻 About Me
+Passionate Junior Software Quality Assurance (SQA) Engineer with experience in **manual, automation, and API testing**. Skilled in designing and executing test cases, reporting defects, and ensuring software reliability. Committed to delivering high-quality solutions and continuously improving my expertise in testing methodologies and tools.  
 
 ---
 
+## 🛠 Skills
+- **Programming & Automation:** Java, Selenium WebDriver, TestNG  
+- **API Testing & Tools:** Postman, Newman  
+- **Performance Testing:** JMeter  
+- **Database:** MySQL  
+- **Version Control & CI/CD:** Git, GitHub  
+- **Project & Test Management:** Jira  
+- **Office Tools:** MS Excel, Word  
 
-## 📫 Connect with Me 
-- 📧 ayesharipa25@gmail.com
+---
+
+## 🎓 Education
+**B.Sc. in Software Engineering** – Noakhali Science & Technology University (CGPA: 3.38) – Oct 2024  
+
+---
+
+## 💼 Work Experience
+
+**Tappware Solutions Limited** – *Junior SQA Engineer* (Nov 2024 – Present)  
+- Conducted functional, regression, and exploratory testing to ensure product stability.  
+- Collaborated with developers and product managers to identify, track, and resolve defects.  
+- Designed and maintained test documentation, including detailed test cases and execution reports.  
+- Enhanced automation framework by writing reusable Selenium TestNG scripts.  
+
+**Tappware Solutions Limited** – *Software Engineer Trainee* (Jul 2023 – Dec 2023)  
+- Assisted in manual and automation testing; gained experience in SQA processes under senior guidance.  
+
+---
+
+## 📂 Projects
+
+### Work Projects
+**Bangladesh Securities and Exchange Commission – IPO Application Platform**  
+- Conducted manual, automation, and API testing; executed smoke, sanity, and regression tests.  
+- Prepared test cases, reports, user manuals, and automation scripts.  
+
+**LAAT – London Academy for Applied Technology**  
+- Performed manual and automation testing; reported defects and collaborated with developers.  
+- Designed and executed API test cases.  
+
+### Personal Projects
+**MentalCare – SRS, Test Plan & Test Cases** [GitHub](https://github.com/AyeshaNasrinRipa/MentalCare-SRS-Test-Planning-Test-Cases)  
+- Defined system features, user roles, and functional requirements.  
+- Outlined testing strategies and validation scenarios.  
+
+**SauceDemo – TestNG Automation** [GitHub](https://github.com/AyeshaNasrinRipa/SauceDemo-TestNG-Automation)  
+- Implemented end-to-end automation using Selenium WebDriver and TestNG.  
+- Created Page Object Model structure for Login, Home, Cart, Checkout, and Confirmation pages.  
+- Developed tests for locked out, standard, and performance glitch users.  
+- Generated TestNG reports with full checkout flow validations.  
+
+**Dmoney – API Testing with Postman** [GitHub](https://github.com/AyeshaNasrinRipa/DMoney-API-Testing-Postman)  
+- Developed API test suite covering user management, financial transactions, and error handling.  
+- Generated execution reports and documented bugs.  
+
+**Load & Stress Testing – Restful Booker API (JMeter)** [GitHub](https://github.com/AyeshaNasrinRipa/Load-Stress-Testing-Using-JMeter)  
+- Performed load/stress testing for login, booking creation, and search scenarios with 120,000 simulated users.  
+- Generated HTML and Excel reports; identified bottlenecks and ensured system stability.  
+
+---
+
+## 🏆 Certifications
+- **SQA: Manual & Automation Testing** – Ostad (Apr 2024 – Oct 2024)  
+- **Full Stack SQA (Ongoing)** – Road To SDET  
+
+---
+
+## 🌐 Languages
+- Bengali, English  
+
+---
+
+## 📫 Contact Me
+- **Email:** [ayesharipa25@gmail.com](mailto:ayesharipa25@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/ayesharipa](https://www.linkedin.com/in/ayesharipa/)  
+- **GitHub:** [github.com/AyeshaNasrinRipa](https://github.com/AyeshaNasrinRipa)  
