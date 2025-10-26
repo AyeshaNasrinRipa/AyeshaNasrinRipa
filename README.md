@@ -35,9 +35,6 @@ Passionate Junior Software Quality Assurance (SQA) Engineer with experience in *
 - Designed and maintained test documentation, including detailed test cases and execution reports.  
 - Enhanced automation framework by writing reusable Selenium TestNG scripts.  
 
-**Tappware Solutions Limited** – *Software Engineer Trainee* (Jul 2023 – Dec 2023)  
-- Assisted in manual and automation testing; gained experience in SQA processes under senior guidance.  
-
 ---
 
 ## 📂 Projects
@@ -56,11 +53,10 @@ Passionate Junior Software Quality Assurance (SQA) Engineer with experience in *
 - Defined system features, user roles, and functional requirements.  
 - Outlined testing strategies and validation scenarios.  
 
-**SauceDemo – TestNG Automation** [GitHub](https://github.com/AyeshaNasrinRipa/SauceDemo-TestNG-Automation)  
-- Implemented end-to-end automation using Selenium WebDriver and TestNG.  
-- Created Page Object Model structure for Login, Home, Cart, Checkout, and Confirmation pages.  
-- Developed tests for locked out, standard, and performance glitch users.  
-- Generated TestNG reports with full checkout flow validations.  
+**Daily Finance - TestNG Automation** [GitHub](https://github.com/AyeshaNasrinRipa/DailyFinance_Automation)  
+- Automated functional testing of DailyFinance using Selenium WebDriver, TestNG, and Java. 
+- Implemented POM design, covering user registration, login, password reset, and profile updates.
+- Integrated Gmail API for email validation and documented results with Allure reports.  
 
 **Dmoney – API Testing with Postman** [GitHub](https://github.com/AyeshaNasrinRipa/DMoney-API-Testing-Postman)  
 - Developed API test suite covering user management, financial transactions, and error handling.  
