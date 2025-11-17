@@ -25,8 +25,7 @@ Passionate Junior Software Quality Assurance (SQA) Engineer with experience in *
 ## 🎓 Education
 **B.Sc. in Software Engineering** – Noakhali Science & Technology University (CGPA: 3.38) – Oct 2024  
 
----
-
+<!--
 ## 💼 Work Experience
 
 **Tappware Solutions Limited** – *Junior SQA Engineer* (Nov 2024 – Present)  
@@ -34,8 +33,8 @@ Passionate Junior Software Quality Assurance (SQA) Engineer with experience in *
 - Collaborated with developers and product managers to identify, track, and resolve defects.  
 - Designed and maintained test documentation, including detailed test cases and execution reports.  
 - Enhanced automation framework by writing reusable Selenium TestNG scripts.  
+-->
 
----
 
 ## 📂 Projects
 
